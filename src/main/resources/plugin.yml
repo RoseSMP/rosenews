@@ -1,0 +1,6 @@
+name: RoseNews
+version: '${version}'
+main: me.byteful.plugin.rosenews.RoseNewsPlugin
+depend: [ PlaceholderAPI ]
+authors: [ byteful ]
+description: Plugin for fizz#4096

@@ -1,0 +1,15 @@
+#
+# RoseNews v${version} by byteful#0001
+#
+
+# DateAndTime format for formatted published date.
+# https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
+date_format: "MM/dd/yyyy hh:mm:ss a"
+
+# The number of ticks between updating data from API.
+time_between_updates: 6000 # ticks
+
+# The maximum number of characters in the truncated description placeholder.
+truncated_length: 100 # characters
+
+placeholder_not_resolved: "N/A"
